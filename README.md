@@ -30,6 +30,7 @@ SENG8080
 27. Zarana Gohil
 28. Karan Patel
 29. Harshal Parmar
+30. Ahmed Shitta
 
 ## data collection using Python script 
 
